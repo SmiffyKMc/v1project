@@ -27,6 +27,8 @@
         header('Location: ../view/account.php', false, 302);
         end;
         
+        // github tester
+        
     } else {
         echo "Error";
     }
